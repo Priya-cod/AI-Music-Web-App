@@ -1,3 +1,16 @@
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px black;
+}
+
 .heading
 {
     font-size: 23px;
